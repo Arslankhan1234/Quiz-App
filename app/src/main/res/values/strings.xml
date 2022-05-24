@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="git">Git hub</string>
+    <string name="random_activity">Random Activity</string>
+</resources>
